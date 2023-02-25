@@ -1,1 +1,1 @@
-import discord from discord.js;
+import discord from 'discord.js';
